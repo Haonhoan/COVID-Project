@@ -20,7 +20,7 @@
 			"recurrence": {
 				"frequency": "Hour",
 				"interval": 24,
-				"startTime": "2023-07-25T19:25:00",
+				"startTime": "2023-07-25T14:30:00",
 				"timeZone": "Central Standard Time"
 			}
 		}
